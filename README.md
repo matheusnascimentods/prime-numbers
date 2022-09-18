@@ -37,4 +37,4 @@ java -jar prime-numbers.jar
 
 ## Screenshots
 
-![scrennshot](/Images%20For%20Github/home.jpg)
+![scrennshot](https://github.com/matheusnascimentods/prime-numbers/blob/master/imgGit/app.png)
