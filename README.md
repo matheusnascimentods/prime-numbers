@@ -21,7 +21,9 @@ git clone https://github.com/matheusnascimentods/prime-numbers.git
 ```
 <br>
 
-em seguida com o terminal ainda aberto, basta rodar o seguinte comando:
+## Rodar p projeto
+
+após instalar o projeto com o terminal ainda aberto, basta rodar o seguinte comando:
 
 ```Ruby
 cd prime-numbers/jar
